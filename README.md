@@ -1,108 +1,131 @@
+<-- Terminal-style Hacker Background -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hs1eVt9E9zKeZd45Qx/giphy.gif" width="100%" />
+  <img src="https://i.ibb.co/M5sMRHp/terminal-bg.gif" width="100%" alt="Hacker terminal background" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%91%BD+THUGKEED+HERE...;Welcome+to+the+Empire+of+Tech+%F0%9F%94%A5;Bots+%7C+Tools+%7C+Hacks+%7C+Power+%F0%9F%9A%80;Join+THUGKEED+TECH+Today+%F0%9F%91%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👾+THUGKEED+BOOTING+SYSTEM...;💻+THUGKEED+TECH+ONLINE;🚀+WEB+DEV+%7C+BOT+ENGINEER+%7C+TOOL+MAKER;⚡+HACK+SIMULATION+INITIATED..." alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thugkeedxxx&style=flat-square&color=red" alt="profile views" />
-</p>
 
 ---
 
 ```bash
-> WHOAMI
-THUGKEED | Full Stack Dev 💻 | WhatsApp Bot Master 🤖 | Hacker Vibes 👾
+> SYSTEM BOOTING...
+✓ Initializing terminal interface...
+✓ Loading THUGKEED engine core...
+✓ Verifying GitHub credentials...
+✓ Injecting hacker UI into README...
+✓ System Status: LIVE 🟢
 
-> SPECIALTIES
-Web Panels ⚙️ · Fake Hack Tools 💀 · WhatsApp Bot Systems 📲 · Render/Vercel Hosting 🌐
+Logged in as: @thugkeedxxx
+Location: Nigeria 🇳🇬
+Organization: THUGKEED TECH™
 
-> SOCIAL
-📡 WhatsApp → https://whatsapp.com/channel/0029VbB7a9v6LwHqDUERef0M  
-💻 GitHub → https://github.com/thugkeedxxx  
-🌎 Location → South Africa 🇿🇦---
+
+---
+
+🧠 THUGKEED IDENTITY
+
+const thugkeed = {
+  alias: "THUGKEED 👑",
+  origin: "Codeverse 🔥",
+  role: "🧠 Full Stack Wizard | 🤖 WhatsApp Bot Master",
+  special: ["Fake Hacking Tools", "Bot Panels", "Dark UIs", "Render Deploys"],
+  goal: "Build legendary tools for the next-gen devs",
+  motto: "Code hard. Animate everything. Rule loud."
+};
+
+
+---
 
 🎯 ASK ME ANYTHING
 
-> I love building 🔥 web-based bots, hacker tools, and control panels.
-Want a panel or bot UI? Hit me up via WhatsApp
+> Want a fake hack terminal?
+Want a WhatsApp bot panel with UI?
+Want animated app UIs or tools that blow minds?
+👉 Message me on WhatsApp
 
 
 
 
 ---
 
-🛠️ TECH STACK
+🛠️ STACK & TOOLS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,react,mongodb,vercel,render,github,python" />
 </p>
 ---
 
-⚙️ Featured Tools (clickable badges)
+⚡ QUICK ACCESS BADGES
 
-  
+ []  
 
 
 ---
 
-🔥 GitHub Stats
+🧨 PROJECT SHOWCASE
+
+Project	Description	Link
+
+THUGKEED-XMD	WhatsApp Bot UI + Animations	View
+THUGKEED HACKLAB	Fake Hacker Panel (Red/Black)	View
+MP3 JUICE	YouTube to MP3 Downloader	View
+WhatsApp Breaker	Simulated Hack Tool	View
+
+
+
+---
+
+📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thugkeedxxx&theme=radical&show_icons=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=thugkeedxxx&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thugkeedxxx&theme=tokyonight&show_icons=true&hide_border=false" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=thugkeedxxx&theme=tokyonight&hide_border=false" width="48%"/>
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thugkeedxxx&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thugkeedxxx&layout=compact&theme=tokyonight" width="50%" />
 </p>
 ---
 
-📍 Code Snippet (for vibe)
-
-while(true) {
-   console.log("👑 THUGKEED TECH RUNNING...");
-}
-
-
----
-
-📊 Contribution Graph
+📈 ACTIVITY GRAPH
 
 
 
 
 ---
 
-💬 Quote of the Day
+📜 LIVE VISITOR COUNTER
 
-> “Real devs don’t sleep, we deploy.” — THUGKEED ⚡
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thugkeedxxx&style=for-the-badge&color=red" alt="Visitors"/>
+</p>
+---
 
+👽 SYSTEM MESSAGE
 
+> EXECUTE --help
+🔥 Tools deployed on Render
+🎧 Music fetcher enabled
+💀 Hack simulation active
+🤖 Bot engine running
+📦 Repo status: Public
 
 
 ---
 
-📦 Projects Showcase
+💬 QUOTE OF THE DAY
 
-Project	Type	Link
-
-THUGKEED-XMD	WhatsApp Bot UI	View
-THUGKEED HACKLAB	Fake Hacker Tool	View
-MP3 JUICE	Music Downloader	View
-WhatsApp Breaker	Sim Hack Tool	View
+> "The code you write today becomes the tool they fear tomorrow." — THUGKEED ⚡
 
 
-
----
-
-🚀 Deployment Status
-
- 
 
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px" />
-</p><p align="center"><b>🚀 POWERED BY THUGKEED TECH™ — REWRITING THE CODEVERSE</b></p>
+  <img src="https://media.giphy.com/media/UqZydZzgj4NWT0xkJS/giphy.gif" width="350px" />
+</p><p align="center"><b>🚀 POWERED BY THUGKEED TECH™ — WELCOME TO THE CODEVERSE</b></p>
+```
+---
+
+
